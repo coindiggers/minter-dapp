@@ -1,11 +1,11 @@
-const contractAddress = "0xB0c0f6D5938CB9Bc046c73be7866Fe1b7f2E5F3eS"; //Replace with your own contract address
+const contractAddress = "0xB0c0f6D5938CB9Bc046c73be7866Fe1b7f2E5F3e"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to Individuals of Influence";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'The first collection of ten';
 const h1_presale_coming_soon = "NFTs are ready";
-const h1_presale_mint = "";
+const h1_presale_mint = "Here";
 const h1_public_mint = "Open for Minting";
 const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
 const h2_presale_mint = "Public Minting Countdown";
